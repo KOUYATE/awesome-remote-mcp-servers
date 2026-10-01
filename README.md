@@ -591,6 +591,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [Store Catalog](https://agenttoolworks.com/scrapers/shopify-woocommerce) `https://storecatalog.agenttoolworks.com/mcp`
+  [![Store Catalog MCP connector](https://glama.ai/mcp/connectors/com.agenttoolworks/storecatalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttoolworks/storecatalog)
   🔑 - Read any public Shopify or WooCommerce store: products, variants, prices, stock, barcodes and search.
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
